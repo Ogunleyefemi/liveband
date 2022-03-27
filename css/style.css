@@ -4,6 +4,19 @@
     background-color: blue;
     text-align: center;
 }
-img{
-    float: left;  
+.img1{
+    float: left;
+    height: fit-content;
 }
+.body{
+    font-style: italic;
+}
+.header2{
+    font-size: 30px;
+    text-align: center;
+    background-color: blue;
+    height: 50px;
+}
+
+
+
